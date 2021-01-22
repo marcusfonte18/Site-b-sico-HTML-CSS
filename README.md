@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  
  
  ## :computer: Projeto
-Desenvolvido um site para exercitar o modelo de site flutuante.
+Projeto desenvolvido para exercitar o modelo de site flutuante.
 Site inspirado no curso de Desenvolvimento Web da Udemy: https://www.udemy.com/course/web-completo/,
 
 ## :thinking: Como contribuir
